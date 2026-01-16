@@ -12,6 +12,7 @@ export default function Home() {
     <>
       <div>
         <h1> (RE)Sources Relationnelles </h1>
+        <p> Bienvenue sur (RE)Sources Relationnelles </p>
       </div>
     </>
   );
